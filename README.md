@@ -1,2 +1,2 @@
 # AppProject
-Its about my semester project code for a chatting app built on socket programming.
+Its about my smart contracts written in Solidiy
